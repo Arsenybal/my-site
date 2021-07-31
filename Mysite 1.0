@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>#ялюблюкотиков</title>
+	</head>
+	<body>
+		<h1 align="center">arsbal</h1>
+		<strong>котист</strong>
+		<hr>
+		<h2 align="center"><i>Пролог</i></h2>
+		<p>амогусы захватили мир и хотят захватить интернет.<br />но котики выриваются вперед и 99.9% интернета уже захвачено ими.</p>
+		<img src=https://i.imgur.com/2D4os3r.jpg alt=" " height=100%  width=100% />
+		^кошка не моя^
+		<h2 align="center">Мой опыт</h2>
+		<ul>
+		<li><b>Котист со стажем</b><p>очень люблю котиков. У меня были коты:</p><ul><li>Марсик</li><li>Маркиз</li><li>Ларсик</li></<li>и ещё кошка Ириска <br />(она есть и сейчас)</li></ul></li><p></p>
+		<li><b>У меня есть попыты</b><p>маленький амогус, симпл димпл и два обычных</p></li>
+		</ul>
+		<table border=3 align="center">
+			<td >я люблю котиков</td>
+		</table>
+		<p><b>ютуб каналы с котиками</b></p>
+		<a href=https://youtube.com/c/AlexeySovaTube target=_blank>приколы с котиками</a><br /><a href=https://youtube.com/c/SANISHOW target=_blank>блоги спасателя котиков</a>
+	</body>
+	<p>	</p>
+	<form><input placeholder="имя твоего кота"></form>
+</html>
